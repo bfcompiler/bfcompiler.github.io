@@ -21,4 +21,4 @@ Assuming all tools are installed and on the correct versions, the following shou
 5. Executable is available at `<PROJECT DIRECTORY>/src-tauri/target/release/bfc-winstaller.exe`
 
 ---
-### [Return](/bfc-winstaller/)
+### [Return](/bfc-winstaller/internals/)

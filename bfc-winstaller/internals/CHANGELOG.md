@@ -13,4 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created base project, installing from a [placeholder project for the Brainf**k compiler](https://github.com/bfcompiler/bfc-win-placeholder)
 
 ---
-### [Return](/bfc-winstaller/)
+### [Return](/bfc-winstaller/internals/)
